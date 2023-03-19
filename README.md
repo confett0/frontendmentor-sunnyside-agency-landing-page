@@ -10,8 +10,6 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
 
 ## Overview
 
@@ -24,13 +22,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./screenshots/screenshot.jpg)
-![Responsive menu](./screenshots/screenshot2.jpg)
+![Desktop](./screenshot.jpg)
+![Responsive menu](./screenshot2.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View Code](https://github.com/confett0/frontendmentor-sunnyside-agency-landing-page)
+- Live Site URL: [Live Preview](https://confett0.github.io/frontendmentor-sunnyside-agency-landing-page/)
 
 ## My process
 
